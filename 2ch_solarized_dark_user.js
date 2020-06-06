@@ -7,6 +7,7 @@
 // @match        http://2ch.hk/*
 // @match        https://2ch.hk/*
 // @grant        none
+// @run-at       document-start
 // ==/UserScript==
 
 function addGlobalStyle(css) {
